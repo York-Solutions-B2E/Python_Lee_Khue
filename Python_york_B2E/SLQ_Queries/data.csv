@@ -1,0 +1,28 @@
+industry,subindustry,total_revenue
+Manufacturing,Consumer Electronics & Computers Retail,86153757
+Retail,Automobile Dealers,56803298
+Retail,Grocery Retail,54269326
+Retail,"Department Stores, Shopping Centers & Superstores",43550263
+Retail,Apparel & Accessories Retail,20639533
+Retail,"Flowers, Gifts & Specialty Stores",17827120
+Manufacturing,Automobile Dealers,15383793
+Retail,Home Improvement & Hardware Retail,8162494
+Retail,"Vitamins, Supplements & Health Stores",5895492
+Retail,Pet Products,5630498
+Manufacturing,Toys & Games,5298149
+Business Services,Automobile Dealers,4464523
+Retail,Sporting & Recreational Equipment Retail,3342220
+Retail,Furniture,3189395
+Construction,Grocery Retail,2962846
+Manufacturing,"Flowers, Gifts & Specialty Stores",2590605
+Manufacturing,Furniture,2391198
+Manufacturing,Jewelry & Watch Retail,1846751
+Construction,Home Improvement & Hardware Retail,1785388
+Agriculture,Grocery Retail,1672833
+Consumer Services,Automobile Dealers,1554750
+Retail,"Convenience Stores, Gas Stations & Liquor Stores",1228061
+Retail,Jewelry & Watch Retail,1125772
+Manufacturing,Home Improvement & Hardware Retail,735383
+Government,Grocery Retail,728379
+Retail,,544569
+Construction,Automobile Dealers,430870
